@@ -35,7 +35,7 @@ Open a terminal and navigate to the root directory of the project (where the `do
 docker-compose up --build
 ```
 ### View Data in Kibana
-Navigate to [Kibana](http://localhost:5601)
+Navigate to [Kibana Dashboard](http://localhost:5601)
 
 Go to Stack Management > Index Patterns <br/>
 Create an index pattern (e.g., iot-data-*) <br/>
