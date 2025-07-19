@@ -37,8 +37,8 @@ docker-compose up --build
 ### View Data in Kibana
 Navigate to [Kibana](http://localhost:5601)
 
-Go to Stack Management > Index Patterns
-Create an index pattern (e.g., iot-data-*)
+Go to Stack Management > Index Patterns <br/>
+Create an index pattern (e.g., iot-data-*) <br/>
 Go to Discover to explore the data
 
 
