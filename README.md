@@ -5,7 +5,7 @@ This project is a microservices-based IoT data pipeline designed to simulate, in
 ## Architecture Overview
 
 - **IoTDataGenerator**: Generates simulated IoT sensor data.
-- **IngestionService**: Consumes raw data, validates it, and forwards it to the processing service.
+- **Ingestion**: Consumes raw data, validates it, and forwards it to the processing service.
 - **ProcessingService**: Enhances, filters, categorizes, and sets corresponding status flags along with an overall status message.
 - **DataPersistenceService**: Stores valid processed data into Elasticsearch.
 - **Kibana**: Used to explore the stored data in Elasticsearch.
