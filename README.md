@@ -1,6 +1,6 @@
 # IoT Data Processing System
 
-This project is a microservices-based IoT data pipeline designed to simulate, ingest, process, and persist sensor data using Apache Kafka, Spring Boot, and Docker.
+This project is a microservices-based IoT data pipeline designed to simulate, ingest, process, and persist sensor data using Apache Kafka, Spring Boot, Docker, Elasticsearch and Kibana
 
 ## Architecture Overview
 
