@@ -37,9 +37,10 @@ docker-compose up --build
 ### View Data in Kibana
 Navigate to Kibana Dashboard http://localhost:5601
 
-Go to Stack Management > Index Patterns <br/>
-Create an index pattern (e.g., iot-data-*) <br/>
-Go to Discover to explore the data
+Navigate to Stack Management > index patterns(e.g., iot-data-*) to
+create or view Elasticsearch indices.
+• or
+• Navigate to Discover > Create data view > select index pattern (iotdata-*)
 
 
 
