@@ -18,21 +18,28 @@ This project is a microservices-based IoT data pipeline designed to simulate, in
 - Java 17+
 - [MVND](https://github.com/apache/maven-mvnd) (Maven Daemon)
 
-  
-### Folder Structure
+  ### Project Structure
+```text
 .
 ├── docker-compose.yml
 ├── iotdatagenerator/
 ├── ingestion/
 ├── processingservice/
-└── datapersistenceservice/ 
-
+└── datapersistenceservice/
+```
 ### Build & Run with Docker Compose
 
 Open a terminal and navigate to the root directory of the project (where the `docker-compose.yml` file is located), then run:
 
 ```bash
-docker-compose up --build 
+docker-compose up --build
+```
+### View Data in Kibana
+Navigate to [Kibana](http://localhost:5601)
+
+Go to Stack Management > Index Patterns
+Create an index pattern (e.g., iot-data-*)
+Go to Discover to explore the data
 
 
 
