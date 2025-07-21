@@ -16,7 +16,7 @@ This project is a microservices-based IoT data pipeline designed to simulate, in
 
 - Docker & Docker Compose
 - Java 17+
-- [MVND](https://github.com/apache/maven-mvnd) (Maven Daemon)
+- [MVND](https://maven.apache.org/tools/mvnd.html) (Maven Daemon)
 
 ### Project Structure
 ```text
