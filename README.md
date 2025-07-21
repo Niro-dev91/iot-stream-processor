@@ -34,7 +34,7 @@ This project is a microservices-based IoT data pipeline designed to simulate, in
 Navigate to each microservice folder and run:
 
 ```bash
-mvn clean package
+mvnd clean package
 ```
 
 Open a terminal and navigate to the root directory of the project (where the `docker-compose.yml` file is located), then run:
