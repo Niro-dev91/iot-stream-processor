@@ -48,7 +48,7 @@ Navigate to Kibana Dashboard http://localhost:5601
 Navigate to Stack Management > index patterns(e.g., iot-data-) to
 create or view Elasticsearch indices.<br/> 
 or<br/>
-Navigate to Discover > Create a data view > select index pattern (iotdata-*)
+Navigate to Discover > Create a data view > select index pattern (iot-data-*)
 
 
 
