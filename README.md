@@ -34,7 +34,18 @@ This project is a microservices-based IoT data pipeline designed to simulate, in
 Open a terminal and navigate to each microservice folder and run:
 
 ```bash
-mvnd clean package
+ cd iotdatagenerator
+ mvnd clean package
+
+ cd ingestion
+ mvnd clean package
+
+ cd processingservice
+ mvnd clean package
+
+ cd datapersistenceservice
+ mvnd clean package
+
 ```
 #### Run with Docker Compose
 Open a terminal and navigate to the root directory of the project (where the `docker-compose.yml` file is located), then run:
