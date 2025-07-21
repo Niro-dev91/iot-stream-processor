@@ -29,6 +29,14 @@ This project is a microservices-based IoT data pipeline designed to simulate, in
 ```
 ### Build & Run with Docker Compose
 
+### How to Build
+
+Navigate to each microservice folder and run:
+
+```bash
+mvn clean package
+```
+
 Open a terminal and navigate to the root directory of the project (where the `docker-compose.yml` file is located), then run:
 
 ```bash
