@@ -1,0 +1,5 @@
+D:\Projects\iot-stream-processor\ingestion\src\main\java\com\example\ingestion\IngestionApplication.java
+D:\Projects\iot-stream-processor\ingestion\src\main\java\com\example\ingestion\model\IoTMessage.java
+D:\Projects\iot-stream-processor\ingestion\src\main\java\com\example\ingestion\service\KafkaConsumerService.java
+D:\Projects\iot-stream-processor\ingestion\src\main\java\com\example\ingestion\service\KafkaProducerService.java
+D:\Projects\iot-stream-processor\ingestion\src\main\java\com\example\ingestion\validation\IoTMessageValidator.java

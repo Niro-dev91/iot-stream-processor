@@ -1,0 +1,10 @@
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\config\ElasticsearchConfig.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\consumer\ProcessedDataListener.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\DatapersistenceserviceApplication.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\model\Battery.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\model\Environmental.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\model\Location.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\model\ProcessedSensorData.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\repository\ProcessedDataRepository.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\service\ElasticsearchInitService.java
+D:\Projects\iot-stream-processor\datapersistenceservice\src\main\java\com\example\datapersistenceservice\service\PersistenceService.java

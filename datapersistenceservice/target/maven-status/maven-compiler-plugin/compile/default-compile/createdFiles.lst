@@ -1,0 +1,10 @@
+com\example\datapersistenceservice\config\ElasticsearchConfig.class
+com\example\datapersistenceservice\model\Environmental.class
+com\example\datapersistenceservice\model\Battery.class
+com\example\datapersistenceservice\service\ElasticsearchInitService.class
+com\example\datapersistenceservice\DatapersistenceserviceApplication.class
+com\example\datapersistenceservice\model\ProcessedSensorData.class
+com\example\datapersistenceservice\repository\ProcessedDataRepository.class
+com\example\datapersistenceservice\consumer\ProcessedDataListener.class
+com\example\datapersistenceservice\model\Location.class
+com\example\datapersistenceservice\service\PersistenceService.class

@@ -1,0 +1,7 @@
+com\example\iotdatagenerator\IotdatageneratorApplication.class
+com\example\iotdatagenerator\model\IoTMessage.class
+com\example\iotdatagenerator\service\DataGenerationService.class
+com\example\iotdatagenerator\service\DataSendingSchedulerService.class
+com\example\iotdatagenerator\service\KafkaHealthChecker.class
+com\example\iotdatagenerator\service\DataSendingService.class
+com\example\iotdatagenerator\controller\ConfigController.class

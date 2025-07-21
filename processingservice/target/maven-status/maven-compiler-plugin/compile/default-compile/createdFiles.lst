@@ -1,0 +1,12 @@
+com\example\processingservice\publisher\KafkaPublisherService.class
+com\example\processingservice\service\EnrichmentService.class
+com\example\processingservice\service\ValidationService.class
+com\example\processingservice\model\Environmental.class
+com\example\processingservice\ProcessingserviceApplication.class
+com\example\processingservice\consumer\SensorDataListener.class
+com\example\processingservice\util\PayloadUtil.class
+com\example\processingservice\model\Battery.class
+com\example\processingservice\model\EnrichedSensorData.class
+com\example\processingservice\model\Location.class
+com\example\processingservice\service\DataFilteringService.class
+com\example\processingservice\model\IoTMessage.class

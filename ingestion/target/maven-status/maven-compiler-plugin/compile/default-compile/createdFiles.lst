@@ -1,0 +1,5 @@
+com\example\ingestion\validation\IoTMessageValidator.class
+com\example\ingestion\model\IoTMessage.class
+com\example\ingestion\IngestionApplication.class
+com\example\ingestion\service\KafkaProducerService.class
+com\example\ingestion\service\KafkaConsumerService.class
